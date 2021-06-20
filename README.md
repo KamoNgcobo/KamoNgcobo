@@ -1,5 +1,5 @@
-Project management: https://kamoge-team.monday.com/boards/1405888194
-User manual: 
+- Project management: https://kamoge-team.monday.com/boards/1405888194
+- User manual: file:///C:/Users/sbmoa/OneDrive/Desktop/ReceiptsSystem/ReceiptsSystem/User_Manual.pdf
 
 - 👋 Hi, I’m Kamogelo Koketso Ngcobo
 - 👀 I’m interested in reading fictional books, listening to music and coding
