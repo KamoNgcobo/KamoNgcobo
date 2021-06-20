@@ -1,3 +1,6 @@
+Project management: https://kamoge-team.monday.com/boards/1405888194
+User manual: 
+
 - 👋 Hi, I’m Kamogelo Koketso Ngcobo
 - 👀 I’m interested in reading fictional books, listening to music and coding
 - 🌱 I’m currently learning more coding, software engineering and how to juggle life as a whole 
